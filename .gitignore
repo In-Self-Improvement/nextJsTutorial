@@ -1,0 +1,22 @@
+# Git hook
+.commit
+
+*.zip
+Routinery.*
+# s3 json
+# remote_data/*
+# bigquery
+bigquery/*
+# Test
+src/screens/TestScreen.js
+src/data
+# OSX
+#
+.DS_Store
+
+.env.local
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
